@@ -33,26 +33,28 @@
 
 <picture>
     <source
-      srcset="https://github-readme-stats.vercel.app/api?username=rcarcole&theme=github_dark&hide_border=false&include_all_commits=true&count_private=true"
+      srcset="https://github-readme-stats.vercel.app/api?username=rcarcole&theme=github_dark&hide_border=false&include_all_commits=true&count_private=true&v=1"
       media="(prefers-color-scheme: dark)"
     />
     <source
-      srcset="https://github-readme-stats.vercel.app/api?username=rcarcole&theme=default&hide_border=false&include_all_commits=true&count_private=true"
+      srcset="https://github-readme-stats.vercel.app/api?username=rcarcole&theme=default&hide_border=false&include_all_commits=true&count_private=true&v=1"
       media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
     />
-    <img height="165em" src="https://github-readme-stats.vercel.app/api?username=rcarcole&theme=dark&hide_border=false&include_all_commits=true&count_private=true" alt="General Stats" style="max-width: 100%;">
+    <img height="165em" src="https://github-readme-stats.vercel.app/api?username=rcarcole&theme=dark&hide_border=false&include_all_commits=true&count_private=true&v=1" alt="General Stats" style="max-width: 100%;">
 </picture>
+
 <picture>
     <source
-      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=rcarcole&layout=compact&langs_count=10&theme=github_dark"
+      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=rcarcole&layout=compact&langs_count=10&theme=github_dark&v=1"
       media="(prefers-color-scheme: dark)"
     />
     <source
-      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=rcarcole&layout=compact&langs_count=10&theme=default"
+      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=rcarcole&layout=compact&langs_count=10&theme=default&v=1"
       media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
     />
-    <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rcarcole&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" style="max-width: 100%;">
+    <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rcarcole&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact&v=1" alt="Top Languages" style="max-width: 100%;">
 </picture>
+
 
 
 <br><br>
