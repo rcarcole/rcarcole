@@ -1,7 +1,7 @@
 <div align="center">
 
-<h1 align="center">Hi 👋, I'm Robert</h1>
-<h3 align="center">A passionate frontend developer from Spain</h3>
+<h1 align="">Hi 👋, I'm Robert</h1>
+<h3 align="">A passionate frontend developer from Spain</h3>
 
 - 🔭 I’m currently working on [AngularPhpTaskList](https://github.com/rcarcole/projectShow2k23/tree/main/AngularPhpTaskList)
 
