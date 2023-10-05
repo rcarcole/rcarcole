@@ -8,7 +8,7 @@
 - 📫 How to reach me **rcarcole@hotmail.com**
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/rocarcoleso) 
 </p>
 
 ## 🌐 Socials:
