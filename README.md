@@ -31,9 +31,12 @@
 
 # 📊 GitHub Stats:
 
+<picture>
     <img height="165em" src="https://github-readme-stats.vercel.app/api?username=rcarcole&theme=dark&hide_border=false&include_all_commits=true&count_private=true" alt="General Stats" style="max-width: 100%;">
+</picture>
+<picture>
     <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rcarcole&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" style="max-width: 100%;">
-
+</picture>
 
 <br><br>
 
